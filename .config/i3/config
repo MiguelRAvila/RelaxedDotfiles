@@ -3,7 +3,7 @@
 # ┴  ╩╩╩  └─┘└─┘┘└┘└  ┴└─┘
 # - Miguel R. Ávila
                                                        
-#########################################################################
+######################################################################### 
 ## Autostart Applications
 #########################################################################
 
@@ -161,7 +161,7 @@ bindsym $mod+2		workspace $ws2
 bindsym $mod+3		workspace $ws3
 bindsym $mod+4		workspace $ws4
 bindsym $mod+5		workspace $ws5
-bindsym $mod+6    workspace $ws6
+bindsym $mod+6      workspace $ws6
 
 # move focused container to workspace
 bindsym $mod+Shift+1	move container to workspace $ws1; workspace $ws1 
